@@ -1,17 +1,17 @@
-# 🎯 Sentiment Analysis Tool (IMDB Dataset)
+#  Sentiment Analysis Tool (IMDB Dataset)
 A complete end-to-end Sentiment Analysis project implemented in **Google Colab**, using  
 **TF-IDF Vectorization + Logistic Regression** for binary classification (Positive / Negative).
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project trains a machine learning model to classify movie reviews from the **IMDB dataset**.  
 The entire workflow is performed in **Google Colab**, and all artifacts (model, vectorizer, plots)  
 are stored in **Google Drive**.
 
 ---
 
-## 🚀 Features
+## Features
 - Clean and preprocess text data  
 - Convert text into TF-IDF vectors  
 - Train Logistic Regression classifier  
@@ -21,7 +21,7 @@ are stored in **Google Drive**.
 
 ---
 
-## 📁 Project Files
+## Project Files
 | File | Description |
 |------|-------------|
 | `sentiment_analysis_colab.ipynb` | Full Colab notebook with training, evaluation & demo |
@@ -31,7 +31,7 @@ are stored in **Google Drive**.
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 The final model achieved:
 
 - **Accuracy:** ~90%  
@@ -39,4 +39,4 @@ The final model achieved:
 
 ---
 
-## 🧪 Sample Prediction Example
+## Sample Prediction Example
